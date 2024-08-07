@@ -1,8 +1,8 @@
 # Splice Image Detection using Bicoherence
 
-> Model Accuracy: 72% - 83%
+> MODEL ACCURACY: 77% - 85%
 
-<br />
+<hr />
 
 ## Overview
 
